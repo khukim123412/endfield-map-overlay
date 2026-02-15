@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "Transparent overlay for Arknights: Endfield interactive maps",
   "main": "main.js",
+  "license": "CC0-1.0",
   "scripts": {
     "start": "electron .",
     "dist": "electron-builder --win portable"
